@@ -31,8 +31,6 @@ Behavior Question是在应聘绝大多数公司都会经历的一场面试，却
 
 废话不多说，直接上干货，behavior question考察的内容具体可以分为一下几点
 
-**态度和价值观**|**压力应对**
-
  <table>
     <tr>
        <td rowspan="3">态度和价值观</td>
