@@ -33,7 +33,7 @@ Behavior Question是在应聘绝大多数公司都会经历的一场面试，却
 
 **态度和价值观**|**压力应对**
 
- <table align=‘auto’>
+ <table>
     <tr>
        <td rowspan="3">态度和价值观</td>
        <td>压力应对</td>
