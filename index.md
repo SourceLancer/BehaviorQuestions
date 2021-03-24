@@ -133,3 +133,9 @@ Behavior Question是在应聘绝大多数公司都会经历的一场面试，却
 
 ## 总结
 behavior面试实际上应当是在各个面试中最容易的那个，一个正确的心态，加上适当的问题准备，知己知彼，一定可以顺利通过面试。
+
+
+[主页](https://sourcelancer.github.io/MINE/)
+
+上一篇： [面试过程中的高频算法](https://sourcelancer.github.io/RegularlyAppearedTopics/) 
+
