@@ -31,7 +31,6 @@ Behavior Question是在应聘绝大多数公司都会经历的一场面试，却
 
 废话不多说，直接上干货，behavior question考察的内容具体可以分为一下几点
 
-<center>
  <table>
     <tr>
        <td rowspan="3">态度和价值观</td>
@@ -64,7 +63,6 @@ Behavior Question是在应聘绝大多数公司都会经历的一场面试，却
        <td>资源规划</td>
     </tr>
  </table>
- </center>
 
 具体到不同到职位，要求到标准也略有差异。比如：
 对于产品经理或项目经理 -- 领导能力 ≥ 态度和价值观、团队合作能力
